@@ -1,0 +1,15 @@
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\coba_branching.csproj.AssemblyReference.cache
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\coba_branching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\coba_branching.AssemblyInfoInputs.cache
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\coba_branching.AssemblyInfo.cs
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\coba_branching.csproj.CoreCompileInputs.cache
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\bin\Debug\net6.0\coba_branching.exe
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\bin\Debug\net6.0\coba_branching.deps.json
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\bin\Debug\net6.0\coba_branching.runtimeconfig.json
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\bin\Debug\net6.0\coba_branching.dll
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\bin\Debug\net6.0\coba_branching.pdb
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\coba_branching.dll
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\refint\coba_branching.dll
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\coba_branching.pdb
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\coba_branching.genruntimeconfig.cache
+C:\Users\ASUS_A409U\source\repos\coba_dulu\coba_branching\coba_branching\obj\Debug\net6.0\ref\coba_branching.dll
